@@ -5,8 +5,8 @@ package parquet
 import (
 	"unsafe"
 
-	"github.com/segmentio/parquet-go/internal/unsafecast"
-	"github.com/segmentio/parquet-go/sparse"
+	"github.com/hhoughgg/parquet-go/internal/unsafecast"
+	"github.com/hhoughgg/parquet-go/sparse"
 )
 
 func makeArray(base unsafe.Pointer, length int, offset uintptr) sparse.Array {

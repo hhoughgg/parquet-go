@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/segmentio/parquet-go/internal/bytealg"
+	"github.com/hhoughgg/parquet-go/internal/bytealg"
 )
 
 func TestBroadcast(t *testing.T) {

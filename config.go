@@ -7,7 +7,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/segmentio/parquet-go/compress"
+	"github.com/hhoughgg/parquet-go/compress"
 )
 
 // ReadMode is an enum that is used to configure the way that a File reads pages.
@@ -32,7 +32,7 @@ const (
 )
 
 const (
-	parquetGoModulePath = "github.com/segmentio/parquet-go"
+	parquetGoModulePath = "github.com/hhoughgg/parquet-go"
 )
 
 var (

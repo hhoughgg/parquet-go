@@ -3,7 +3,7 @@ package parquet_test
 import (
 	"testing"
 
-	"github.com/segmentio/parquet-go"
+	"github.com/hhoughgg/parquet-go"
 )
 
 func TestTransformRowReader(t *testing.T) {

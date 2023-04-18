@@ -3,13 +3,13 @@ package parquet
 import (
 	"math/bits"
 
-	"github.com/segmentio/parquet-go/encoding"
-	"github.com/segmentio/parquet-go/encoding/bitpacked"
-	"github.com/segmentio/parquet-go/encoding/bytestreamsplit"
-	"github.com/segmentio/parquet-go/encoding/delta"
-	"github.com/segmentio/parquet-go/encoding/plain"
-	"github.com/segmentio/parquet-go/encoding/rle"
-	"github.com/segmentio/parquet-go/format"
+	"github.com/hhoughgg/parquet-go/encoding"
+	"github.com/hhoughgg/parquet-go/encoding/bitpacked"
+	"github.com/hhoughgg/parquet-go/encoding/bytestreamsplit"
+	"github.com/hhoughgg/parquet-go/encoding/delta"
+	"github.com/hhoughgg/parquet-go/encoding/plain"
+	"github.com/hhoughgg/parquet-go/encoding/rle"
+	"github.com/hhoughgg/parquet-go/format"
 )
 
 var (

@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/google/uuid"
-	"github.com/segmentio/parquet-go"
+	"github.com/hhoughgg/parquet-go"
 )
 
 type bufferedRows struct {

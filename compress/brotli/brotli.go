@@ -5,8 +5,8 @@ import (
 	"io"
 
 	"github.com/andybalholm/brotli"
-	"github.com/segmentio/parquet-go/compress"
-	"github.com/segmentio/parquet-go/format"
+	"github.com/hhoughgg/parquet-go/compress"
+	"github.com/hhoughgg/parquet-go/format"
 )
 
 const (

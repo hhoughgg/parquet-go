@@ -11,9 +11,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/segmentio/parquet-go/deprecated"
-	"github.com/segmentio/parquet-go/encoding"
-	"github.com/segmentio/parquet-go/format"
+	"github.com/hhoughgg/parquet-go/deprecated"
+	"github.com/hhoughgg/parquet-go/encoding"
+	"github.com/hhoughgg/parquet-go/format"
 )
 
 // ConvertError is an error type returned by calls to Convert when the conversion

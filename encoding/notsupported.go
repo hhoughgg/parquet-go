@@ -4,8 +4,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/segmentio/parquet-go/deprecated"
-	"github.com/segmentio/parquet-go/format"
+	"github.com/hhoughgg/parquet-go/deprecated"
+	"github.com/hhoughgg/parquet-go/format"
 )
 
 var (

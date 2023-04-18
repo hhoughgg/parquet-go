@@ -13,8 +13,8 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/segmentio/parquet-go"
-	"github.com/segmentio/parquet-go/encoding"
+	"github.com/hhoughgg/parquet-go"
+	"github.com/hhoughgg/parquet-go/encoding"
 )
 
 func TestRowBuffer(t *testing.T) {

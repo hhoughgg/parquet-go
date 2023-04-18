@@ -9,7 +9,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/segmentio/parquet-go/sparse"
+	"github.com/hhoughgg/parquet-go/sparse"
 )
 
 const (

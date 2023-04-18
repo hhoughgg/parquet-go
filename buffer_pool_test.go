@@ -7,7 +7,7 @@ import (
 	"testing"
 	"testing/iotest"
 
-	"github.com/segmentio/parquet-go"
+	"github.com/hhoughgg/parquet-go"
 )
 
 func TestBufferPool(t *testing.T) {

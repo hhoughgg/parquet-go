@@ -7,10 +7,10 @@ import (
 	"math"
 	"math/bits"
 
-	"github.com/segmentio/parquet-go/encoding"
-	"github.com/segmentio/parquet-go/format"
-	"github.com/segmentio/parquet-go/internal/bitpack"
-	"github.com/segmentio/parquet-go/internal/unsafecast"
+	"github.com/hhoughgg/parquet-go/encoding"
+	"github.com/hhoughgg/parquet-go/format"
+	"github.com/hhoughgg/parquet-go/internal/bitpack"
+	"github.com/hhoughgg/parquet-go/internal/unsafecast"
 )
 
 type BinaryPackedEncoding struct {

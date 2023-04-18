@@ -12,9 +12,9 @@ import (
 	"unsafe"
 
 	"github.com/google/uuid"
-	"github.com/segmentio/parquet-go/deprecated"
-	"github.com/segmentio/parquet-go/format"
-	"github.com/segmentio/parquet-go/internal/unsafecast"
+	"github.com/hhoughgg/parquet-go/deprecated"
+	"github.com/hhoughgg/parquet-go/format"
+	"github.com/hhoughgg/parquet-go/internal/unsafecast"
 )
 
 const (

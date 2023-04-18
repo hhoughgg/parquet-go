@@ -6,8 +6,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/segmentio/parquet-go/deprecated"
-	"github.com/segmentio/parquet-go/internal/quick"
+	"github.com/hhoughgg/parquet-go/deprecated"
+	"github.com/hhoughgg/parquet-go/internal/quick"
 )
 
 func TestNullIndex(t *testing.T) {

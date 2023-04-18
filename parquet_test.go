@@ -12,9 +12,9 @@ import (
 
 	"github.com/google/uuid"
 
-	"github.com/segmentio/parquet-go"
-	"github.com/segmentio/parquet-go/deprecated"
-	"github.com/segmentio/parquet-go/internal/quick"
+	"github.com/hhoughgg/parquet-go"
+	"github.com/hhoughgg/parquet-go/deprecated"
+	"github.com/hhoughgg/parquet-go/internal/quick"
 )
 
 const (

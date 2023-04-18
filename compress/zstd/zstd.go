@@ -4,8 +4,8 @@ package zstd
 import (
 	"sync"
 
+	"github.com/hhoughgg/parquet-go/format"
 	"github.com/klauspost/compress/zstd"
-	"github.com/segmentio/parquet-go/format"
 )
 
 type Level = zstd.EncoderLevel

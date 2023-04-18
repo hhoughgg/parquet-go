@@ -5,13 +5,13 @@ import (
 	"io"
 	"testing"
 
-	"github.com/segmentio/parquet-go/compress"
-	"github.com/segmentio/parquet-go/compress/brotli"
-	"github.com/segmentio/parquet-go/compress/gzip"
-	"github.com/segmentio/parquet-go/compress/lz4"
-	"github.com/segmentio/parquet-go/compress/snappy"
-	"github.com/segmentio/parquet-go/compress/uncompressed"
-	"github.com/segmentio/parquet-go/compress/zstd"
+	"github.com/hhoughgg/parquet-go/compress"
+	"github.com/hhoughgg/parquet-go/compress/brotli"
+	"github.com/hhoughgg/parquet-go/compress/gzip"
+	"github.com/hhoughgg/parquet-go/compress/lz4"
+	"github.com/hhoughgg/parquet-go/compress/snappy"
+	"github.com/hhoughgg/parquet-go/compress/uncompressed"
+	"github.com/hhoughgg/parquet-go/compress/zstd"
 )
 
 var tests = [...]struct {

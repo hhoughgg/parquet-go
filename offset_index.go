@@ -1,7 +1,7 @@
 package parquet
 
 import (
-	"github.com/segmentio/parquet-go/format"
+	"github.com/hhoughgg/parquet-go/format"
 )
 
 type OffsetIndex interface {

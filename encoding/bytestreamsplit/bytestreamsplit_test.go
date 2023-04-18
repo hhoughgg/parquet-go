@@ -6,9 +6,9 @@ package bytestreamsplit_test
 import (
 	"testing"
 
-	"github.com/segmentio/parquet-go/encoding/bytestreamsplit"
-	"github.com/segmentio/parquet-go/encoding/fuzz"
-	"github.com/segmentio/parquet-go/encoding/test"
+	"github.com/hhoughgg/parquet-go/encoding/bytestreamsplit"
+	"github.com/hhoughgg/parquet-go/encoding/fuzz"
+	"github.com/hhoughgg/parquet-go/encoding/test"
 )
 
 func FuzzEncodeFloat(f *testing.F) {

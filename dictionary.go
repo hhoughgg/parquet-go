@@ -5,13 +5,13 @@ import (
 	"math/bits"
 	"unsafe"
 
-	"github.com/segmentio/parquet-go/deprecated"
-	"github.com/segmentio/parquet-go/encoding"
-	"github.com/segmentio/parquet-go/encoding/plain"
-	"github.com/segmentio/parquet-go/hashprobe"
-	"github.com/segmentio/parquet-go/internal/bitpack"
-	"github.com/segmentio/parquet-go/internal/unsafecast"
-	"github.com/segmentio/parquet-go/sparse"
+	"github.com/hhoughgg/parquet-go/deprecated"
+	"github.com/hhoughgg/parquet-go/encoding"
+	"github.com/hhoughgg/parquet-go/encoding/plain"
+	"github.com/hhoughgg/parquet-go/hashprobe"
+	"github.com/hhoughgg/parquet-go/internal/bitpack"
+	"github.com/hhoughgg/parquet-go/internal/unsafecast"
+	"github.com/hhoughgg/parquet-go/sparse"
 )
 
 const (
