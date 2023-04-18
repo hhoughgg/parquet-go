@@ -1,4 +1,4 @@
-module github.com/segmentio/parquet-go
+module github.com/hhoughgg/parquet-go
 
 go 1.19
 
@@ -10,6 +10,7 @@ require (
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/pierrec/lz4/v4 v4.1.9
 	github.com/segmentio/encoding v0.3.5
+	github.com/segmentio/parquet-go v0.0.0-20230404173032-05ed5ed000b1
 	golang.org/x/sys v0.0.0-20211110154304-99a53858aa08
 	google.golang.org/protobuf v1.30.0
 )
